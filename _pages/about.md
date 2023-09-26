@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-As a dedicated senior at New York University, I'm majoring in Computer Science and minoring in both Mathematics and Web Programming and Applications. Currently, I am working closely with [Professors Joseph Bonneau](https://jbonneau.com/) and [Professor Michael Walfish](https://cs.nyu.edu/~mwalfish/) to pioneer anonymous email domain ownership verification using zero-knowledge proofs. Parallelly, I am extending the groundbreaking work I initiated during my internship, focusing on GPU memory disaggregation under the guidance of [Professor Anurag Khandelwal](https://www.anuragkhandelwal.com).
+As a dedicated senior at New York University, I'm majoring in Computer Science and minoring in both Mathematics and Web Programming and Applications. I am fortunate enough to be advised by [Professors Joseph Bonneau](https://jbonneau.com/) and [Professor Michael Walfish](https://cs.nyu.edu/~mwalfish/) to explore and achieve the potential of Zero-knowledge proofs in domain verification. In parallel, I am extending the groundbreaking work I initiated during my internship, focusing on GPU memory disaggregation under the guidance of [Professor Anurag Khandelwal](https://www.anuragkhandelwal.com).
 
 My research is anchored at the crossroads of systems, networking, and security, areas that allow me to continuously challenge and expand the boundaries of our current knowledge. I have also broadened my academic spectrum through past projects in Natural Language Processing and VR/AR Development.
 
