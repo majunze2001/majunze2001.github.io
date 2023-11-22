@@ -8,5 +8,5 @@ date: 2023-09-02
 location: "New York, NY"
 ---
 
-- Held weekly office hours to assist students with lab assignments and conceptual questions; graded homework assignments, labs, and exams.
+- Held weekly office hours to assist students with lab assignments and conceptual questions; graded homework assignments and labs.
 - Prepared and led recitations to walk students through lab structures and help fill up background gaps.
