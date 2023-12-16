@@ -12,3 +12,8 @@ As a dedicated senior at New York University, I am majoring in Computer Science 
 My research is anchored at the crossroads of systems, networking, and security, areas that allow me to continuously challenge and expand the boundaries of our current knowledge. I have also broadened my academic spectrum through past projects in Natural Language Processing and VR/AR Development.
 
 Driven by an unwavering passion for my field, I aim to pursue a Ph.D. in Computer Science, focusing on these disciplines. I am committed to deepening my understanding, making significant contributions to the tech field, and actively seeking opportunities to collaborate with others who share this commitment to advancing these essential tech domains.
+
+
+### News
+- Dec, 2023: Joining as a Teaching Assistant (grader) for the Computer Networks course in Spring 2024!
+- Dec, 2023: Received [Dean's Undergraduate Research Fund (DURF)](https://cas.nyu.edu/undergraduate-research/deans-undergraduate-research-fund/DURFG.html) grants for two projects: domaing proving and AI-generated text detection. Thank you NYU!
