@@ -16,4 +16,4 @@ Driven by an unwavering passion for my field, I aim to pursue a Ph.D. in Compute
 
 ### News
 - Dec, 2023: Joining as a Teaching Assistant (grader) for the Computer Networks course in Spring 2024!
-- Dec, 2023: Received [Dean's Undergraduate Research Fund (DURF)](https://cas.nyu.edu/undergraduate-research/deans-undergraduate-research-fund/DURFG.html) grants for two projects: domaing proving and AI-generated text detection. Thank you NYU!
+- Dec, 2023: Received [Dean's Undergraduate Research Fund (DURF)](https://cas.nyu.edu/undergraduate-research/deans-undergraduate-research-fund/DURFG.html) grants for two projects: domain proving and AI-generated text detection. Thank you NYU!
