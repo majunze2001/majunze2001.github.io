@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications & Projects"
-    url: /publications/
+  #- title: "Publications & Projects"
+  #  url: /publications/
 
-  - title: "Talks & Presentations"
-    url: /talks/    
+  #- title: "Talks & Presentations"
+  #  url: /talks/    
 
-  - title: "Academic Roles & Responsibilities"
-    url: /teaching/    
+  #- title: "Academic Roles & Responsibilities"
+  #  url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/

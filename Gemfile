@@ -24,6 +24,8 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  # for last modified
+  gem 'jekyll-last-modified-at'
 end
 
 gem 'webrick'

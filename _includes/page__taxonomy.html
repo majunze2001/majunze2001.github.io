@@ -7,3 +7,7 @@
 {% if site.category_archive.type and page.categories[0] %}
   {% include category-list.html %}
 {% endif %}
+
+<span>
+  Updated on: {{ site.time | date: "%b" }} {{ site.time | date: "%-d" | ordinalize }}, {{ site.time | date: "%Y" }}
+</span>
