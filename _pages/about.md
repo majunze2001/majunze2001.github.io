@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a first-year [CSE](https://cse.engin.umich.edu/) PhD student at the [University of Michigan](https://umich.edu/), working with [Prof. Mosharaf Chowdhury](https://www.mosharaf.com/). I am affiliated with [SymbioticLab](https://symbioticlab.org/). I am broadly interested in systems, and I am currently working on machine learning systems, focusing on energy.
+I'm a first-year [CSE](https://cse.engin.umich.edu/) PhD student at the [University of Michigan](https://umich.edu/), working with [Prof. Mosharaf Chowdhury](https://www.mosharaf.com/). I am affiliated with [SymbioticLab](https://symbioticlab.org/). I am broadly interested in systems and networking, and I am currently working on machine learning systems.
 
 Prior to UMich, I obtained my bachelor's degree in Computer Science at [New York University](https://www.nyu.edu/). I was fortunate to be advised by [Prof. Joseph Bonneau](https://jbonneau.com/), [Prof. Michael Walfish](https://cs.nyu.edu/~mwalfish/) at NYU, and [Prof. Anurag Khandelwal](https://www.anuragkhandelwal.com) at Yale University.
 
