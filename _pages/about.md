@@ -21,5 +21,9 @@ Prior to UMich, I obtained my bachelor's degree in Computer Science at [New York
 ### Publications
 - **NOPE: Strengthening domain authentication with succinct proofs** <br/>
 [Zachary DeStefano](https://www.mathmasterzach.com/), _Jeff J. Ma_, [Joseph Bonneau](https://jbonneau.com), and [Michael Walfish](https://cs.nyu.edu/~mwalfish/)<br/>
-[SOSP 2024](https://sigops.org/s/conferences/sosp/2024/), Nov 2024. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3694715.3695962)]
+[SOSP 2024](https://sigops.org/s/conferences/sosp/2024/), Nov 2024. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3694715.3695962)]<br/>
+<img style="width:1rem" src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_evaluated_functional_v1_1.png" alt="Artifacts Functional"> <i>Artifacts Functional</i>
+<img style="width:1rem" src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" alt="Artifacts Available"> <i>Artifacts Available</i>
+<img style="width:1rem" src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/results_reproduced_v1_1.png" alt="Results Reproduced"> <i>Results Reproduced</i>
+
 
