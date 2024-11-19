@@ -13,7 +13,7 @@ Prior to UMich, I obtained my bachelor's degree in Computer Science at [New York
 
 ### News
 - Aug 2024: Started at UMich!
-- Aug 2024: [NOPE](https://sigops.org/s/conferences/sosp/2024/accepted.html) Accepted to SOSP 2024!
+- Aug 2024: [NOPE](https://dl.acm.org/doi/pdf/10.1145/3694715.3695962) Accepted to SOSP 2024!
 - May 2024: Graduated from NYU!
 - Dec 2023: Joining as a TA for [CSCI-UA.0480-062: Computer Networks](https://anirudhsk.github.io/ug_networks_site/) in Spring 2024!
 - Dec 2023: Received two [Dean's Undergraduate Research Fund (DURF)](https://cas.nyu.edu/undergraduate-research/deans-undergraduate-research-fund/DURFG.html) grants. Thank you NYU!
