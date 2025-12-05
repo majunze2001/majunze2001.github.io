@@ -14,7 +14,7 @@ Prior to UMich, I obtained my bachelor's degree in Computer Science at [New York
 [CV](files/cv.pdf)
 
 ### News
-- Nov 2025: Open-sourcing [Cornserve](https://cornserve.ai/) for generic Any-to-Any model serving!
+- Nov 2025: Releasing [Cornserve](https://cornserve.ai/) for Generic Any-to-Any Model Serving!
 - Sep 2025: [The ML.ENERGY Benchmark](https://arxiv.org/abs/2505.06371) Accepted to NeurIPS'25 D&B Spotlight!
 - Aug 2024: Started at UMich!
 - Aug 2024: [NOPE](https://dl.acm.org/doi/pdf/10.1145/3694715.3695962) Accepted to SOSP 2024!
