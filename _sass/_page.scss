@@ -84,6 +84,18 @@
     }
   }
 
+  a.publication-author {
+    color: inherit;
+    text-decoration: underline;
+
+    &:visited,
+    &:hover,
+    &:focus,
+    &:active {
+      color: inherit;
+    }
+  }
+
   dt {
     margin-top: 1em;
     font-family: $sans-serif;
