@@ -13,8 +13,8 @@ Prior to UMich, I obtained my bachelor's degree in Computer Science at [New York
 
 ### News
 - May 2026: Started at [Inferact](https://inferact.ai/) as a Member of Technical Staff!
-- Apr 2026: [Cornserve: A Distributed Serving System for Any-to-Any Multimodal Models](https://dl.acm.org/doi/10.1145/3786335.3813209) Accepted to CAIS'26 Demos!
-- Jan 2026: [TetriServe: Efficiently Serving Mixed DiT Workloads](https://dl.acm.org/doi/10.1145/3779212.3790233) Accepted to ASPLOS'26!
+- Apr 2026: [Cornserve](https://dl.acm.org/doi/10.1145/3786335.3813209) Accepted to CAIS'26 Demos!
+- Jan 2026: [TetriServe](https://dl.acm.org/doi/10.1145/3779212.3790233) Accepted to ASPLOS'26!
 - Nov 2025: Releasing [Cornserve](https://cornserve.ai/) for Generic Any-to-Any Model Serving!
 - Sep 2025: [The ML.ENERGY Benchmark](https://arxiv.org/abs/2505.06371) Accepted to NeurIPS'25 D&B Spotlight!
 - Aug 2024: Started at UMich!
